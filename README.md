@@ -20,11 +20,6 @@ There are three projects included, which made with all the tools that were used 
     * Description: This project uses logistic regression to predict the susceptiblility of a patient to heart disease based on the symptoms that are shown.
     * Dataset: Kaggle
 
-* [Bluebook for Bulldozers](https://github.com/SwethaVipparla/Machine-Learning-and-Data-Science/tree/master/Jupyter%20Notebooks/Milestone%20Project%202)
-    * Made With: Jupyter Notebook
-    * Description: This project learn from time series data to predict the prices of various bulldozers with regression.
-    * Dataset: Kaggle
-
 * [Dog Vision](https://github.com/SwethaVipparla/Machine-Learning-and-Data-Science/tree/master/Jupyter%20Notebooks/Milestone%20Project%203): 
     * Made With: Google Colab 
     * Description: This project uses transfer learning to identify the breed of a dog from a given picture. 
